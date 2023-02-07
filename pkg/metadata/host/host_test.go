@@ -15,8 +15,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shirou/gopsutil/v3/cpu"
-	"github.com/shirou/gopsutil/v3/host"
+	"github.com/jeffweiss/gopsutil/v3/cpu"
+	"github.com/jeffweiss/gopsutil/v3/host"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

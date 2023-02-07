@@ -15,7 +15,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/DataDog/gopsutil/host"
+	"github.com/jeffweiss/gopsutil/host"
 	"github.com/cilium/ebpf/btf"
 	"github.com/mholt/archiver/v3"
 

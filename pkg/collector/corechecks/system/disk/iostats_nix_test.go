@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shirou/gopsutil/v3/disk"
+	"github.com/jeffweiss/gopsutil/v3/disk"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/DataDog/datadog-agent/pkg/aggregator/mocksender"

@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 )
 
 // NewProcessProbe returns a Probe object

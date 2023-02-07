@@ -8,7 +8,7 @@
 package uptime
 
 import (
-	"github.com/shirou/gopsutil/v3/host"
+	"github.com/jeffweiss/gopsutil/v3/host"
 )
 
 // For testing purpose

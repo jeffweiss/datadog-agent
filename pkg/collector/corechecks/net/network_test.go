@@ -11,7 +11,7 @@ package net
 import (
 	"testing"
 
-	"github.com/shirou/gopsutil/v3/net"
+	"github.com/jeffweiss/gopsutil/v3/net"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 

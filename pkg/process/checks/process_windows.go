@@ -11,7 +11,7 @@ package checks
 import (
 	"runtime"
 
-	"github.com/DataDog/gopsutil/cpu"
+	"github.com/jeffweiss/gopsutil/cpu"
 
 	model "github.com/DataDog/agent-payload/v5/process"
 

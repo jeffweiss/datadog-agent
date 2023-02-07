@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/DataDog/gopsutil/host"
+	"github.com/jeffweiss/gopsutil/host"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/DataDog/gopsutil/cpu"
+	"github.com/jeffweiss/gopsutil/cpu"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

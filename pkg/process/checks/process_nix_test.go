@@ -18,7 +18,7 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	model "github.com/DataDog/agent-payload/v5/process"
-	"github.com/DataDog/gopsutil/cpu"
+	"github.com/jeffweiss/gopsutil/cpu"
 
 	"github.com/DataDog/datadog-agent/pkg/process/procutil"
 )

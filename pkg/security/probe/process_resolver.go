@@ -23,7 +23,7 @@ import (
 
 	"github.com/DataDog/datadog-go/v5/statsd"
 	manager "github.com/DataDog/ebpf-manager"
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 	lib "github.com/cilium/ebpf"
 	"github.com/hashicorp/golang-lru/v2/simplelru"
 	"go.uber.org/atomic"

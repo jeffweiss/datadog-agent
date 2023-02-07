@@ -17,7 +17,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/DataDog/gopsutil/host"
+	"github.com/jeffweiss/gopsutil/host"
 	"golang.org/x/sys/unix"
 
 	"github.com/DataDog/datadog-agent/pkg/ebpf/bytecode"

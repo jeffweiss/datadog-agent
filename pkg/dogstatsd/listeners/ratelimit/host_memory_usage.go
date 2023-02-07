@@ -6,7 +6,7 @@
 package ratelimit
 
 import (
-	"github.com/DataDog/gopsutil/mem"
+	"github.com/jeffweiss/gopsutil/mem"
 )
 
 var _ memoryUsage = (*hostMemoryUsage)(nil)

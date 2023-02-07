@@ -12,7 +12,7 @@ import (
 
 	"github.com/DataDog/datadog-agent/pkg/util/cache"
 
-	gopsutilhost "github.com/shirou/gopsutil/v3/host"
+	gopsutilhost "github.com/jeffweiss/gopsutil/v3/host"
 
 	"github.com/DataDog/datadog-agent/pkg/util/log"
 )

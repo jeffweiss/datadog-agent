@@ -19,7 +19,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 
 	"github.com/DataDog/datadog-agent/pkg/process/util"
 )

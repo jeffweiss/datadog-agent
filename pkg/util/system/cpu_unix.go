@@ -9,7 +9,7 @@
 package system
 
 import (
-	"github.com/shirou/gopsutil/v3/cpu"
+	"github.com/jeffweiss/gopsutil/v3/cpu"
 )
 
 func init() {

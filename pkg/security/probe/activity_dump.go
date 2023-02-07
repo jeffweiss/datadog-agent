@@ -28,7 +28,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 	"github.com/cilium/ebpf"
 	"github.com/prometheus/procfs"
 	"go.uber.org/atomic"

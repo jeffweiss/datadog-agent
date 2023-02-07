@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/DataDog/gopsutil/host"
+	"github.com/jeffweiss/gopsutil/host"
 	"golang.org/x/sys/unix"
 )
 

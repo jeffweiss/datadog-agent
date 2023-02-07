@@ -17,7 +17,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/shirou/gopsutil/v3/net"
+	"github.com/jeffweiss/gopsutil/v3/net"
 	yaml "gopkg.in/yaml.v2"
 
 	"github.com/DataDog/datadog-agent/pkg/aggregator"

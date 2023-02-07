@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/shirou/gopsutil/v3/mem"
+	"github.com/jeffweiss/gopsutil/v3/mem"
 
 	"github.com/DataDog/datadog-agent/pkg/util/log"
 

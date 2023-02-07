@@ -10,7 +10,7 @@ package cpu
 import (
 	"testing"
 
-	"github.com/shirou/gopsutil/v3/load"
+	"github.com/jeffweiss/gopsutil/v3/load"
 
 	"github.com/DataDog/datadog-agent/pkg/aggregator/mocksender"
 	"github.com/DataDog/datadog-agent/pkg/autodiscovery/integration"

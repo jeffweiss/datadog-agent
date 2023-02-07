@@ -12,7 +12,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/shirou/gopsutil/v3/host"
+	"github.com/jeffweiss/gopsutil/v3/host"
 )
 
 type osVersion [3]string

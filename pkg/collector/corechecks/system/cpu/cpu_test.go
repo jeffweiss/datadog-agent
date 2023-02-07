@@ -15,7 +15,7 @@ import (
 	"github.com/DataDog/datadog-agent/pkg/autodiscovery/integration"
 	"github.com/DataDog/datadog-agent/pkg/metrics"
 
-	"github.com/shirou/gopsutil/v3/cpu"
+	"github.com/jeffweiss/gopsutil/v3/cpu"
 	"github.com/stretchr/testify/mock"
 )
 

@@ -19,7 +19,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 	"github.com/twmb/murmur3"
 	"golang.org/x/sys/unix"
 

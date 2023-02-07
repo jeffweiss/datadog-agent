@@ -12,7 +12,7 @@ import (
 
 	"github.com/DataDog/datadog-agent/pkg/util/log"
 	"github.com/hashicorp/golang-lru/v2/simplelru"
-	"github.com/shirou/gopsutil/v3/process"
+	"github.com/jeffweiss/gopsutil/v3/process"
 )
 
 const (

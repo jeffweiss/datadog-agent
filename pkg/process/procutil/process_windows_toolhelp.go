@@ -17,7 +17,7 @@ import (
 	"github.com/shirou/w32"
 	"golang.org/x/sys/windows"
 
-	process "github.com/DataDog/gopsutil/process"
+	process "github.com/jeffweiss/gopsutil/process"
 
 	"github.com/DataDog/datadog-agent/pkg/util/log"
 	"github.com/DataDog/datadog-agent/pkg/util/winutil"

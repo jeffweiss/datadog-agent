@@ -12,8 +12,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/shirou/gopsutil/v3/cpu"
-	"github.com/shirou/gopsutil/v3/host"
+	"github.com/jeffweiss/gopsutil/v3/cpu"
+	"github.com/jeffweiss/gopsutil/v3/host"
 
 	"github.com/DataDog/datadog-agent/pkg/metadata/inventories"
 	"github.com/DataDog/datadog-agent/pkg/util/cache"

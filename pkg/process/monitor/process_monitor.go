@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 	"github.com/vishvananda/netlink"
 
 	"github.com/DataDog/datadog-agent/pkg/process/util"

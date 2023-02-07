@@ -6,8 +6,8 @@
 package procutil
 
 import (
-	"github.com/DataDog/gopsutil/cpu"
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/cpu"
+	"github.com/jeffweiss/gopsutil/process"
 )
 
 // Process holds all relevant metadata and metrics for a process

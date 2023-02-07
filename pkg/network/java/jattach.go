@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/DataDog/datadog-agent/pkg/util/log"
-	"github.com/DataDog/gopsutil/process"
+	"github.com/jeffweiss/gopsutil/process"
 )
 
 // MINIMUM_JAVA_AGE_MS is the minimum age of a java process to be able to attach it

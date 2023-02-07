@@ -14,7 +14,7 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/DataDog/gopsutil/host"
+	"github.com/jeffweiss/gopsutil/host"
 )
 
 // TimeResolver converts kernel monotonic timestamps to absolute times

@@ -12,9 +12,9 @@ import (
 	"fmt"
 
 	model "github.com/DataDog/agent-payload/v5/process"
-	"github.com/DataDog/gopsutil/cpu"
-	"github.com/DataDog/gopsutil/host"
-	"github.com/DataDog/gopsutil/mem"
+	"github.com/jeffweiss/gopsutil/cpu"
+	"github.com/jeffweiss/gopsutil/host"
+	"github.com/jeffweiss/gopsutil/mem"
 	"golang.org/x/sys/unix"
 )
 
