@@ -57,7 +57,7 @@ require (
 	github.com/DataDog/go-libddwaf v0.0.0-20221118110754-0372d7c76b8a
 	github.com/DataDog/go-tuf v0.3.0--fix-localmeta-fork
 	github.com/DataDog/gohai v0.0.0-20221116153829-5d479901d2e9
-	github.com/jeffweiss/gopsutil v1.2.3
+	github.com/jeffweiss/gopsutil v1.2.4-jeff.1
 	github.com/DataDog/nikos v1.10.0
 	github.com/DataDog/opentelemetry-mapping-go/pkg/quantile v0.1.0
 	github.com/DataDog/sketches-go v1.4.1
